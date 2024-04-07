@@ -28,6 +28,10 @@ public class Class4_Practice {
 	public void test5() {
 		System.out.println("Hi 4 "+Thread.currentThread().getId());
 	}
+	@Test
+	public void test6() {
+		System.out.println("New test in class4");
+	}
 
 	
 }
