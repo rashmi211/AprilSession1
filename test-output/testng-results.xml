@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="19" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-07T15:58:17 IST" name="Regression Suite" finished-at="2024-04-07T15:58:24 IST" duration-ms="7100">
+    <groups>
+    </groups>
+    <test started-at="2024-04-07T15:58:17 IST" name="Sanity Test" finished-at="2024-04-07T15:58:18 IST" duration-ms="118">
+      <class name="practicetest.Class1_TestNg">
+        <test-method is-config="true" signature="test()[pri:0, instance:practicetest.Class1_TestNg@4c402120]" started-at="2024-04-07T15:58:17 IST" name="test" finished-at="2024-04-07T15:58:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="classtag()[pri:0, instance:practicetest.Class1_TestNg@4c402120]" started-at="2024-04-07T15:58:17 IST" name="classtag" finished-at="2024-04-07T15:58:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classtag -->
+        <test-method signature="method3()[pri:1, instance:practicetest.Class1_TestNg@4c402120]" started-at="2024-04-07T15:58:17 IST" name="method3" finished-at="2024-04-07T15:58:17 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method signature="method1(int,int)[pri:3, instance:practicetest.Class1_TestNg@4c402120]" started-at="2024-04-07T15:58:17 IST" name="method1" finished-at="2024-04-07T15:58:17 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method is-config="true" signature="endclasstag()[pri:0, instance:practicetest.Class1_TestNg@4c402120]" started-at="2024-04-07T15:58:17 IST" name="endclasstag" finished-at="2024-04-07T15:58:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endclasstag -->
+        <test-method is-config="true" signature="test1()[pri:0, instance:practicetest.Class1_TestNg@4c402120]" started-at="2024-04-07T15:58:18 IST" name="test1" finished-at="2024-04-07T15:58:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- practicetest.Class1_TestNg -->
+      <class name="practicetest.Class2_TestNg2">
+        <test-method is-config="true" signature="test2()[pri:0, instance:practicetest.Class2_TestNg2@1573f9fc]" started-at="2024-04-07T15:58:17 IST" name="test2" finished-at="2024-04-07T15:58:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="classtag()[pri:0, instance:practicetest.Class2_TestNg2@1573f9fc]" started-at="2024-04-07T15:58:17 IST" name="classtag" finished-at="2024-04-07T15:58:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classtag -->
+        <test-method signature="method()[pri:1, instance:practicetest.Class2_TestNg2@1573f9fc]" started-at="2024-04-07T15:58:17 IST" name="method" finished-at="2024-04-07T15:58:17 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method signature="method1(int,int)[pri:2, instance:practicetest.Class2_TestNg2@1573f9fc]" started-at="2024-04-07T15:58:17 IST" name="method1" finished-at="2024-04-07T15:58:17 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="method2(int,java.lang.String)[pri:3, instance:practicetest.Class2_TestNg2@1573f9fc]" started-at="2024-04-07T15:58:17 IST" name="method2" data-provider="data" finished-at="2024-04-07T15:58:17 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[moni]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method signature="method2(int,java.lang.String)[pri:3, instance:practicetest.Class2_TestNg2@1573f9fc]" started-at="2024-04-07T15:58:17 IST" name="method2" data-provider="data" finished-at="2024-04-07T15:58:17 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rashi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method signature="method2(int,java.lang.String)[pri:3, instance:practicetest.Class2_TestNg2@1573f9fc]" started-at="2024-04-07T15:58:17 IST" name="method2" data-provider="data" finished-at="2024-04-07T15:58:17 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shruti]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method signature="method3()[pri:4, instance:practicetest.Class2_TestNg2@1573f9fc]" started-at="2024-04-07T15:58:17 IST" name="method3" finished-at="2024-04-07T15:58:17 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method is-config="true" signature="endclasstag()[pri:0, instance:practicetest.Class2_TestNg2@1573f9fc]" started-at="2024-04-07T15:58:18 IST" name="endclasstag" finished-at="2024-04-07T15:58:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endclasstag -->
+        <test-method is-config="true" signature="test3()[pri:0, instance:practicetest.Class2_TestNg2@1573f9fc]" started-at="2024-04-07T15:58:18 IST" name="test3" finished-at="2024-04-07T15:58:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- practicetest.Class2_TestNg2 -->
+    </test> <!-- Sanity Test -->
+    <test started-at="2024-04-07T15:58:18 IST" name="Practice Test" finished-at="2024-04-07T15:58:18 IST" duration-ms="31">
+      <class name="practicetest.Class1_TestNg">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:practicetest.Class1_TestNg@510f3d34]" started-at="2024-04-07T15:58:17 IST" name="beforeSuite" finished-at="2024-04-07T15:58:17 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:practicetest.Class1_TestNg@510f3d34]" started-at="2024-04-07T15:58:25 IST" name="afterSuite" finished-at="2024-04-07T15:58:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- practicetest.Class1_TestNg -->
+      <class name="practicetest.Class4_Practice">
+        <test-method signature="test1()[pri:0, instance:practicetest.Class4_Practice@fa4c865]" started-at="2024-04-07T15:58:18 IST" name="test1" finished-at="2024-04-07T15:58:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:practicetest.Class4_Practice@fa4c865]" started-at="2024-04-07T15:58:18 IST" name="test2" finished-at="2024-04-07T15:58:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:practicetest.Class4_Practice@fa4c865]" started-at="2024-04-07T15:58:18 IST" name="test3" finished-at="2024-04-07T15:58:18 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:practicetest.Class4_Practice@fa4c865]" started-at="2024-04-07T15:58:18 IST" name="test4" finished-at="2024-04-07T15:58:18 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5()[pri:0, instance:practicetest.Class4_Practice@fa4c865]" started-at="2024-04-07T15:58:18 IST" name="test5" finished-at="2024-04-07T15:58:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+      </class> <!-- practicetest.Class4_Practice -->
+    </test> <!-- Practice Test -->
+    <test started-at="2024-04-07T15:58:17 IST" name="Regression Test" finished-at="2024-04-07T15:58:24 IST" duration-ms="7100">
+      <class name="practicetest.Class1_TestNg">
+        <test-method is-config="true" signature="test()[pri:0, instance:practicetest.Class1_TestNg@510f3d34]" started-at="2024-04-07T15:58:17 IST" name="test" finished-at="2024-04-07T15:58:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="classtag()[pri:0, instance:practicetest.Class1_TestNg@510f3d34]" started-at="2024-04-07T15:58:24 IST" name="classtag" finished-at="2024-04-07T15:58:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classtag -->
+        <test-method signature="method()[pri:0, instance:practicetest.Class1_TestNg@510f3d34]" started-at="2024-04-07T15:58:24 IST" name="method" finished-at="2024-04-07T15:58:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method signature="method3()[pri:1, instance:practicetest.Class1_TestNg@510f3d34]" started-at="2024-04-07T15:58:24 IST" name="method3" finished-at="2024-04-07T15:58:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method signature="method2()[pri:2, instance:practicetest.Class1_TestNg@510f3d34]" started-at="2024-04-07T15:58:24 IST" name="method2" finished-at="2024-04-07T15:58:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method signature="method1(int,int)[pri:3, instance:practicetest.Class1_TestNg@510f3d34]" started-at="2024-04-07T15:58:24 IST" name="method1" finished-at="2024-04-07T15:58:24 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method is-config="true" signature="endclasstag()[pri:0, instance:practicetest.Class1_TestNg@510f3d34]" started-at="2024-04-07T15:58:24 IST" name="endclasstag" finished-at="2024-04-07T15:58:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endclasstag -->
+        <test-method is-config="true" signature="test1()[pri:0, instance:practicetest.Class1_TestNg@510f3d34]" started-at="2024-04-07T15:58:24 IST" name="test1" finished-at="2024-04-07T15:58:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- practicetest.Class1_TestNg -->
+      <class name="practicetest.Class3_Assertions">
+        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:practicetest.Class3_Assertions@7817fd62]" started-at="2024-04-07T15:58:17 IST" name="lounchBrowser" finished-at="2024-04-07T15:58:20 IST" duration-ms="2543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lounchBrowser -->
+        <test-method signature="loginwithvalidcred(java.lang.String,java.lang.String)[pri:0, instance:practicetest.Class3_Assertions@7817fd62]" started-at="2024-04-07T15:58:20 IST" name="loginwithvalidcred" data-provider="data" finished-at="2024-04-07T15:58:20 IST" duration-ms="417" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithvalidcred -->
+        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:practicetest.Class3_Assertions@7817fd62]" started-at="2024-04-07T15:58:20 IST" name="lounchBrowser" finished-at="2024-04-07T15:58:22 IST" duration-ms="1512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lounchBrowser -->
+        <test-method signature="loginwithvalidcred(java.lang.String,java.lang.String)[pri:0, instance:practicetest.Class3_Assertions@7817fd62]" started-at="2024-04-07T15:58:22 IST" name="loginwithvalidcred" data-provider="data" finished-at="2024-04-07T15:58:22 IST" duration-ms="415" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[locked_out_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Products']"}
+  (Session info: chrome=123.0.6312.106)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [56324487759aded6eea92440f4f9a6ad, findElement {value=//span[text()='Products'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52504}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52504/devtoo..., se:cdpVersion: 123.0.6312.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 56324487759aded6eea92440f4f9a6ad]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Products']"}
+  (Session info: chrome=123.0.6312.106)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [56324487759aded6eea92440f4f9a6ad, findElement {value=//span[text()='Products'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52504}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52504/devtoo..., se:cdpVersion: 123.0.6312.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 56324487759aded6eea92440f4f9a6ad
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+at practicetest.Class3_Assertions.loginwithvalidcred(Class3_Assertions.java:45)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:481)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1589)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithvalidcred -->
+        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:practicetest.Class3_Assertions@7817fd62]" started-at="2024-04-07T15:58:22 IST" name="lounchBrowser" finished-at="2024-04-07T15:58:24 IST" duration-ms="1679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lounchBrowser -->
+        <test-method signature="loginwithvalidcred(java.lang.String,java.lang.String)[pri:0, instance:practicetest.Class3_Assertions@7817fd62]" started-at="2024-04-07T15:58:24 IST" name="loginwithvalidcred" data-provider="data" finished-at="2024-04-07T15:58:24 IST" duration-ms="452" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[problem_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithvalidcred -->
+      </class> <!-- practicetest.Class3_Assertions -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
